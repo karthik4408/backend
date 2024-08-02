@@ -1,0 +1,17 @@
+{
+  "name": "bfhl-api",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
+{
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "rollNumber": "123456",
+  "numbers": [1, 2, 3],
+  "alphabets": ["a", "b", "c"]
+}
